@@ -47,8 +47,8 @@ moot.language = {
   upgrade_mod: 'to make this user a moderator',
   upgrade_admin: 'to make this user administrator or moderator',
 
-  my_profile: 'My profile',
-  post_in: 'Post in',
+  my_profile: 'Моят профил',
+  post_in: 'Публикувай в',
   address_now: 'Thank you! Your email address has been confirmed.',
   open_pw: 'Please hit the button below to open a password change dialog',
   non_anon: 'You need to be logged in to perform this action',
